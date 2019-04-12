@@ -19,10 +19,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://www.quinn.mx'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Quinn Peeks'
+description: 'Ramblings and/or deep insights, courtesy of Quinn Daley'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
