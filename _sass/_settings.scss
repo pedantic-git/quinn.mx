@@ -8,7 +8,7 @@ $accentColour: #E7CECB;
 $headingColour: #a33a83;
 $bodyColour: #111111;
 $linkColour: #7FA1CB;
-$hoverColour: lighten($linkColour, 9);
+$hoverColour: darken($linkColour, 9);
 $focusColour: $hoverColour;
 $captionColour: #CC627A;
 $white: #ffffff;
@@ -23,7 +23,7 @@ $bodytype: (
 );
 
 $headingtype: (
-  font-family: 'Fjalla One, serif',
+  font-family: 'Fjalla One, sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75

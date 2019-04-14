@@ -5,8 +5,17 @@ styles: true
 
 @import "alembic";
 
-.logo img {
-  border-radius: 50%;
+.logo {
+  img {
+    border-radius: 50%;
+    margin-right: 0.5em;
+  }
+  h1 {
+    font-family: unquote(map-get($headingtype, font-family));
+    font-size: 1.5em;
+    font-weight: 700;
+    color: $captionColour;
+  }
 }
 
 .feature .container {
@@ -18,5 +27,19 @@ styles: true
   color: $headingColour;
   a {
     color: currentColor;
+  }
+}
+
+.item > .article {
+  h2, h3 {
+    a {
+      color: $headingColour;
+    }
+  }
+  a {
+    background-image: none;
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
