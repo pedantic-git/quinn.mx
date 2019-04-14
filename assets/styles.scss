@@ -1,0 +1,22 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+
+.logo img {
+  border-radius: 50%;
+}
+
+.feature .container {
+  min-height: 16em;
+}
+
+.footer {
+  background-color: $accentColour;
+  color: $headingColour;
+  a {
+    color: currentColor;
+  }
+}

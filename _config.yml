@@ -21,10 +21,10 @@ plugins:
 # Site settings
 url: 'https://www.quinn.mx'
 baseurl: ''
-title: 'Quinn Peeks'
-description: 'Ramblings and/or deep insights, courtesy of Quinn Daley'
+title: 'Quinn Peaks'
+description: Quinn Daley's obligatory brain dump
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/assets/quinn.jpg"
 
 # Pagination
 paginate: 5
