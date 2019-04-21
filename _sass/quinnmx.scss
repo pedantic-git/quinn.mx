@@ -15,6 +15,12 @@
   a:hover {
     color: lighten($headingColour, 18);
   }
+  .container {
+    padding: 0.5rem 0;
+    div {
+      margin: 0.5rem;
+    }
+  }
 }
 
 .nav--paginator {
