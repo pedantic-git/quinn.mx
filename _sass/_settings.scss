@@ -7,8 +7,8 @@ $accentColour: #E7CECB;
 // Text colours
 $headingColour: #a33a83;
 $bodyColour: #111111;
-$linkColour: #7FA1CB;
-$hoverColour: darken($linkColour, 9);
+$linkColour: #355782;
+$hoverColour: lighten($linkColour, 18);
 $focusColour: $hoverColour;
 $captionColour: #CC627A;
 $white: #ffffff;

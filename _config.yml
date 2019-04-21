@@ -26,6 +26,7 @@ title: Quinn Daley
 description: 'Wool-gatherings about Leeds, sewing, music, politics, gender, language & tech. Eventually. Promise.'
 permalink: pretty
 logo: "/assets/quinn.jpg"
+avatarurl: "/assets/logos/logo@32px.png"
 
 # Pagination
 paginate: 5
@@ -46,3 +47,16 @@ collections:
       Wool-gatherings about Leeds, sewing, music, politics, gender, language & tech. Eventually. Promise.
     output: true
     feature_image: "/assets/leeds.jpg"
+
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  120: '/assets/logos/logo@120px.png'
+  144: '/assets/logos/logo@144px.png'
+  180: '/assets/logos/logo@180px.png'
+  512: '/assets/logos/logo@512px.png'
+  1024: '/assets/logos/logo@1024px.png'
+manifest:
+  theme_color: '#a33a83'
+  short_name: 'Quinn.mx'
