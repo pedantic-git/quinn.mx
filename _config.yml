@@ -22,8 +22,8 @@ plugins:
 # Site settings
 url: 'https://www.quinn.mx'
 baseurl: ''
-title: 'Quinn Peaks'
-description: Quinn Daley's obligatory brain dump
+title: Quinn Daley
+description: 'Wool-gatherings about Leeds, sewing, music, politics, gender, language & tech. Eventually. Promise.'
 permalink: pretty
 logo: "/assets/quinn.jpg"
 
@@ -33,18 +33,16 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Home: /
+  Blog: /
   'About me': /about/
-
-# Footer nav
-navigation_footer:
-  Back to top: "#top"
+  Contact: /contact/
 
 # Collections
 collections:
   posts:
-    title: Blog
+    title: 'Quinn Peeks: a blog'
+    short_title: Blog
     description: |
-      Hello there!
+      Wool-gatherings about Leeds, sewing, music, politics, gender, language & tech. Eventually. Promise.
     output: true
     feature_image: "/assets/leeds.jpg"

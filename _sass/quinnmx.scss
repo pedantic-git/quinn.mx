@@ -1,0 +1,43 @@
+
+.header {
+  .logo h1 {
+    font-weight: normal;
+    height: 1.5rem;
+    line-height: 1.5rem;
+  }
+}
+
+.main {
+  margin-bottom: 3rem;
+}
+
+.footer {
+  a:hover {
+    color: lighten($headingColour, 18);
+  }
+}
+
+.nav--paginator {
+  margin-top: 3rem;
+}
+
+.post-meta {
+  padding-top: 0;  
+}
+
+.article--post h2:first-child {
+  margin-bottom: 0;
+  a:hover {
+    background: none;
+  }
+  a:after {
+    content: ' »'
+  }
+}
+
+.typeset {
+  small, .caption {
+    font-size: 1rem;
+    font-family: unquote(map-get($bodytype, font-family));
+  }
+}
