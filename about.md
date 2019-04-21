@@ -6,7 +6,7 @@ title: About me
 
 Greetings! My name's Quinn Daley (*they/them*) and I'm a non-binary software developer living in Leeds.
 
-Mostly my life online is lived on Twitter and Instagram. You can find my handles below. Occasionally I might post something on here too.
+Mostly my life online is lived on Twitter and Instagram. You can find my handles at the bottom of this page. Occasionally I might post something on this blog too.
 
 If people have heard of me for some reason, they might have heard of me because of:
 
