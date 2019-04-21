@@ -35,9 +35,22 @@
   }
 }
 
+.article.content h1:first-child {
+  margin-bottom: 1rem;
+}
+
 .typeset {
+  h1, h2, h3 {
+    clear: both;
+  }
   small, .caption {
     font-size: 1rem;
     font-family: unquote(map-get($bodytype, font-family));
+  }
+  ul, ol {
+    margin-left: 2rem;
+    li {
+      margin-bottom: 1rem;
+    }
   }
 }
