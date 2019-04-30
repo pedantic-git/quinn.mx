@@ -18,6 +18,7 @@ plugins:
 - jekyll-feed
 - jekyll-time-to-read
 - jemoji
+- jekyll-responsive-image
 
 # Site settings
 url: 'https://www.quinn.mx'
@@ -60,3 +61,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 manifest:
   theme_color: '#a33a83'
   short_name: 'Quinn.mx'
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 400
+    - width: 744
