@@ -30,7 +30,7 @@ We meet monthly in Leeds. [If you'd like to come along, check out our website fo
 
 Years ago I created a fictional tube map of an alternate-universe Leeds where public transport has always been the priority. It has been quite the sensation, even today, having been covered by BBC Radio Leeds and Yorkshire Evening Post twice each.
 
-As part of the launch of this site, I made some 2019 changes to the map for a (hopefully interesting) first blog post.
+As part of the launch of this site, [I made some 2019 changes to the map for a (hopefully interesting) first blog post]({% post_url 2019-04-30-leeds-tube-v4 %}).
 
 ## Leeds Beer Quest
 
