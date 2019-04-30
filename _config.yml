@@ -28,6 +28,8 @@ description: 'Wool-gatherings about Leeds, sewing, music, politics, gender, lang
 permalink: pretty
 logo: "/assets/quinn.jpg"
 avatarurl: "/assets/logos/logo@32px.png"
+disqus: quinnmx
+google_analytics: 'UA-139304439-1'
 
 # Pagination
 paginate: 5
