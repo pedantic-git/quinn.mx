@@ -4,7 +4,7 @@ title: About me
 ---
 {% include figure.html image="/assets/quinn-large.jpg" caption="My face, circa 2019" position="right" %}
 
-Greetings! My name's Quinn Daley (*they/them*) and I'm a non-binary software developer living in Leeds.
+Greetings! My name's Quinn Daley (*pronouns: they/them*) and I'm a non-binary software developer living in Leeds.
 
 Mostly my life online is lived on Twitter and Instagram. You can find my handles at the bottom of this page. Occasionally I might post something on this blog too.
 

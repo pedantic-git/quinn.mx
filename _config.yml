@@ -37,9 +37,12 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Blog: /
-  'About me': /about/
-  Contact: /contact/
+  - title: Blog
+    url: /
+  - title: About me
+    url: /about/
+  - title: Contact
+    url: /contact/
 
 # Collections
 collections:
