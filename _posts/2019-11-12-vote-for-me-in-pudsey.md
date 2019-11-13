@@ -5,6 +5,7 @@ categories:
   - Leeds
   - Politics
 excerpt: "A little about why I'm standing for election in Pudsey in December 2019 and why I think you should vote for me."
+comments: false
 ---
 
 Hey! I'm Quinn (pronouns: they/them) and I'm standing as your Green Party candidate in Pudsey for the general election on 12th December 2019.
