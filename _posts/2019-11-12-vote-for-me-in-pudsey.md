@@ -12,6 +12,13 @@ Hey! I'm Quinn (pronouns: they/them) and I'm standing as your Green Party candid
 
 I'm here to give you a real alternative to the same old blue or red.
 
+* [About me](#about-me)
+* [The Green Party](#the-green-party)
+* [My positions](#my-positions)
+* [Isn't Pudsey a marginal seat?](#isnt-pudsey-a-marginal-seat)
+* [Get in touch with me](#get-in-touch-with-me)
+* [My pledges](#my-pledges)
+
 ## About me
 
 {% include figure.html image="/assets/quinn-large.jpg" position="right" %}
@@ -30,7 +37,7 @@ Why should you vote for me? Why should you vote for the Green Party?
 
 The Green Party isn't a single-issue party focussed entirely on stopping the world burning (although, y'know, that's pretty important!)
 
-We have a really comprehensive and radical policy programme, revamping every aspect of government. We're the only major party to publish every one of our policies online, all year round. [Check them out!](https://policy.greenparty.org.uk/)
+We have a comprehensive and radical policy programme, revamping every aspect of government. We're the only major party to publish every one of our policies online, all year round. [Check them out!](https://policy.greenparty.org.uk/)
 
 ## My positions
 
@@ -92,7 +99,7 @@ Disabled people have been treated very poorly by recent governments. We would **
 
 There's still, sadly, a long way to go to achieve **equality for women**. The Green Party is at the forefront of the movement to get misogyny classified as a hate crime, and we'd start the process of dismantling the male-dominated economic system and media.
 
-The whole process of **affirming trans people's gender** needs a major overhaul, allowing people to formally declare their gender without having to go through a years-long medicalised process. There's a lot of misinformation about, and providing access to reliable information and support for trans and gender-questioning people is essential.
+The whole process of **affirming trans people's gender** needs a major overhaul, allowing people to formally declare their gender without having to go through a years-long medicalised process. There's a lot of misinformation out there, and providing access to reliable information and support for trans and gender-questioning people is essential.
 
 ### Dismantle nuclear weapons
 
@@ -109,6 +116,8 @@ But if you actually don't *like* the Tories, and you don't *like* Labour, maybe 
 We desperately need the voting system to change so that tactical voting becomes a thing of the past, and in the future the Green Party would be open to one-off deals with major parties who promise to change this. In Pudsey, this time, no such deal was forthcoming.
 
 The Green Party needs your vote, even in marginal seats, to ensure that our policies are still taken seriously (and shamelessly adopted by the larger parties), to ensure we continue to be invited to TV debates and have party broadcasts, and to ensure our MPs get a decent amount of [Short Money](https://en.wikipedia.org/wiki/Short_Money) to spend on standing up for these policies.
+
+And we know from experience that us standing or not has very little impact on Tory/Labour marginal races. There's definitely not one party that all our votes would go to if we dropped out. In the absence of a Green candidate, a lot of people who would normally vote for us just feel completely disenfranchised, rather than lending their vote to another party.
 
 ## Get in touch with me
 
