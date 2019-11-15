@@ -125,6 +125,8 @@ You can find me on Twitter ([@pedantic_git](https://twitter.com/pedantic_git/)),
 
 > [**green@quinn.mx**](mailto:green@quinn.mx)
 
+I've heard that some of my email replies are going to people's spam, especially on Hotmail. I'm sorry about this! Please do check your spam folders if you're waiting more than a day or two for a reply from me.
+
 ## My pledges
 
 As people get in touch with pledges for me to sign up to, I'll update this section with the pledges I have signed.
