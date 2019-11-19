@@ -131,4 +131,34 @@ I've heard that some of my email replies are going to people's spam, especially 
 
 As people get in touch with pledges for me to sign up to, I'll update this section with the pledges I have signed.
 
+### Human rights
+
+* [#Invest2EndAbuse](http://www.safelives.org.uk/invest-to-end-abuse) - ending domestic abuse through proper funding
+* [LGBT+ Manifesto](https://lgbtmanifesto.com/)
+* [PAFRAS](https://www.pafras.org.uk/) - a pledge to support and improve refugees and asylum seekers' rights
+* [RNIB Manifesto](https://www.rnib.org.uk/campaigning-current-campaigns-accessible-information-campaign/voting-and-elections)
+
+### NHS &amp; healthcare
+
+* [Bowel Cancer UK manifesto](https://bowelcancerorguk.s3.amazonaws.com/Campaigns/BowelCancerUK_General_Election_Manifesto_2019.pdf)
+* [Royal College of Nursing manifesto](https://www.rcn.org.uk/professional-development/publications/007-943)
+
+### Brexit and democracy
+
+* [#PledgeForPR](https://www.makevotesmatter.org.uk/pledgeforpr)
+* [#tradedemocracy](https://action.traidcraft.org.uk/time-trade-democracy) - ensuring impact assessments on new trade deals, and that Parliament gets a say on all deals
+
+### Transport
+
+* [Living Streets manifesto](https://www.livingstreets.org.uk/election) - prioritise walking (and cycling)
+
+### Education
+
+* [Stop School Cuts](https://schoolcuts.org.uk/action/candidates-pledge/)
+
+### Community and green space
+
+* [Parks Protector Pledge](http://www.fieldsintrust.org/pledge)
+* [#PledgeForPubs](https://www.camra.org.uk/pubs/pledge-for-pubs/)
+
 <p style="font-size: 0.9rem; margin-top: 2rem">* <em>Non-binary means I'm neither male nor female. My pronouns are singular they/them instead of he/him or she/her. Non-binary people sometimes consider ourselves to be transgender, as I do. This isn't something I chose to be - it's something I realised about myself and something I know, deep inside, to be true.</em></p>
