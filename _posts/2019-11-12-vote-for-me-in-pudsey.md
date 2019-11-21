@@ -134,19 +134,23 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 * [Dignity in Dying](https://www.dignityindying.org.uk/) - I support a government inquiry into overturning the blanket ban on assisted dying
 * [#Invest2EndAbuse](http://www.safelives.org.uk/invest-to-end-abuse) - ending domestic abuse through proper funding
 * [LGBT+ Manifesto](https://lgbtmanifesto.com/)
+* [MEND Muslim Manifesto](https://www.mend.org.uk/wp-content/uploads/2019/11/MEND-Muslim-Manifesto-2019.pdf) - all pledges except 2, 9, 21 which I support in principle but with caveats, and 8 which is contrary to Green Party policy. Please contact me if you'd like to know more about my positions!
 * [Scrap 6 Months](https://static.mndassociation.org/app/uploads/2019/11/17225654/Candidates-Pledge-GE2019.pdf) - because we support a universal basic income, I support everyone having access to benefits without a wait of any kind
 * [PAFRAS](https://www.pafras.org.uk/) - a pledge to support and improve refugees and asylum seekers' rights
 * [Refugee Action - stand with refugees](https://www.refugee-action.org.uk/wp-content/uploads/2019/11/Refugee-Action-Election-Pack-2019.pdf)
 * [RNIB Manifesto](https://www.rnib.org.uk/campaigning-current-campaigns-accessible-information-campaign/voting-and-elections)
 * [Trussell Trust](https://www.trusselltrust.org/) - I support replacing the benefits system with a universal basic income, and government assistance for emergency food programmes
+* [Unicef #TeamChildren](https://www.unicef.org.uk/campaign-with-us/general-election-2019/)
 
 ### NHS and healthcare
 
 * [Bowel Cancer UK manifesto](https://bowelcancerorguk.s3.amazonaws.com/Campaigns/BowelCancerUK_General_Election_Manifesto_2019.pdf)
+* [Carers UK manifesto](http://www.carersuk.org/images/News_and_campaigns/Manifestos/Manifesto_2019_final.pdf)
 * [Mind - Press play on mental health](https://www.mind.org.uk/news-campaigns/campaigns/general-election-2019/)
 * [Pancreatic Cancer UK - Demand Survival Now](https://www.pancreaticcancer.org.uk/manifesto)
 * [Rethink Mental Illness manifesto](https://www.rethink.org/media/2990/rethink-mental-illness-general-election-2019-manifesto.pdf)
 * [Royal College of Nursing manifesto](https://www.rcn.org.uk/professional-development/publications/007-943)
+* [#SexualHealthManifesto](https://www.tht.org.uk/our-work/our-campaigns/sexual-health-and-hiv-manifesto)
 * [Together for Short Lives manifesto](https://www.togetherforshortlives.org.uk/wp-content/uploads/2019/11/PolRes_191115_Together-for-Short-Lives_suggested_party_manifesto_pledges_for_seriously_ill_children_FINAL.pdf)
 * [#VoteSEND](https://secure.mencap.org.uk/en-gb/votesend-make-disabled-children-priority-general-election) - making disabled children a priority
 * [We Own It - NHS Trade Pledge](https://weownit.org.uk/nhs-trade-pledge)
@@ -179,6 +183,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 
 ### Other
 
+* [Animal Aid](https://www.animalaid.org.uk/animal-aid-urges-election-candidates-to-help-animals/) - I have signed pledges 1, 2 and 3. I take the concerns in pledge 4 seriously but if elected I would need to hear the evidence from both sides before pledging to support it.
 * [Compassion in World Farming](https://docs.google.com/forms/d/e/1FAIpQLSc0Rz3MVD1P_hwjkG4ekl_NdD-gaFgLhO4Sq7ne6mYvNpnFOg/viewform) - all 7 pledges
 
 <p style="font-size: 0.9rem; margin-top: 2rem">* <em>Non-binary means I'm neither male nor female. My pronouns are singular they/them instead of he/him or she/her. Non-binary people sometimes consider ourselves to be transgender, as I do. This isn't something I chose to be - it's something I realised about myself and something I know, deep inside, to be true.</em></p>
