@@ -178,12 +178,14 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 
 ### Community and green space
 
+* [CPRE countryside manifesto](https://www.cpre.org.uk/magazine/features/item/5211-our-countryside-a-manifesto-for-the-next-government)
 * [Parks Protector Pledge](http://www.fieldsintrust.org/pledge)
 * [#PledgeForPubs](https://www.camra.org.uk/pubs/pledge-for-pubs/)
 
 ### Other
 
 * [Animal Aid](https://www.animalaid.org.uk/animal-aid-urges-election-candidates-to-help-animals/) - I have signed pledges 1, 2 and 3. I take the concerns in pledge 4 seriously but if elected I would need to hear the evidence from both sides before pledging to support it.
+* [Campaign for Nuclear Disarmament](https://cnduk.org/) - I am committed to complete unilateral disarmament of the UK's nuclear weapons arsenal.
 * [Compassion in World Farming](https://docs.google.com/forms/d/e/1FAIpQLSc0Rz3MVD1P_hwjkG4ekl_NdD-gaFgLhO4Sq7ne6mYvNpnFOg/viewform) - all 7 pledges
 
 <p style="font-size: 0.9rem; margin-top: 2rem">* <em>Non-binary means I'm neither male nor female. My pronouns are singular they/them instead of he/him or she/her. Non-binary people sometimes consider ourselves to be transgender, as I do. This isn't something I chose to be - it's something I realised about myself and something I know, deep inside, to be true.</em></p>
