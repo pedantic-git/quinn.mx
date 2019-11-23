@@ -131,6 +131,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 
 ### Human rights
 
+* [Amnesty International](https://twitter.com/AmnestyUK/status/1197771698927538176) - promote and protect human rights in the next Parliament and beyond.
 * [Dignity in Dying](https://www.dignityindying.org.uk/) - I support a government inquiry into overturning the blanket ban on assisted dying
 * [#Invest2EndAbuse](http://www.safelives.org.uk/invest-to-end-abuse) - ending domestic abuse through proper funding
 * [LGBT+ Manifesto](https://lgbtmanifesto.com/)
@@ -144,6 +145,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 
 ### NHS and healthcare
 
+* [BMA manifesto for health](https://www.bma.org.uk/manifesto-for-health)
 * [Bowel Cancer UK manifesto](https://bowelcancerorguk.s3.amazonaws.com/Campaigns/BowelCancerUK_General_Election_Manifesto_2019.pdf)
 * [Carers UK manifesto](http://www.carersuk.org/images/News_and_campaigns/Manifestos/Manifesto_2019_final.pdf)
 * [Mind - Press play on mental health](https://www.mind.org.uk/news-campaigns/campaigns/general-election-2019/)
@@ -187,5 +189,6 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 * [Animal Aid](https://www.animalaid.org.uk/animal-aid-urges-election-candidates-to-help-animals/) - I have signed pledges 1, 2 and 3. I take the concerns in pledge 4 seriously but if elected I would need to hear the evidence from both sides before pledging to support it.
 * [Campaign for Nuclear Disarmament](https://cnduk.org/) - I am committed to complete unilateral disarmament of the UK's nuclear weapons arsenal.
 * [Compassion in World Farming](https://docs.google.com/forms/d/e/1FAIpQLSc0Rz3MVD1P_hwjkG4ekl_NdD-gaFgLhO4Sq7ne6mYvNpnFOg/viewform) - all 7 pledges
+* [League Against Cruel Sports - Strengthening the ban](http://www.league.org.uk/election-briefing) - I have signed up to all the pledges except regarding custodial sentences. I agree fines are inappropriate but the Green Party believes the evidence that community and/or restorative sentences are better for rehabilitating criminals in many cases.
 
 <p style="font-size: 0.9rem; margin-top: 2rem">* <em>Non-binary means I'm neither male nor female. My pronouns are singular they/them instead of he/him or she/her. Non-binary people sometimes consider ourselves to be transgender, as I do. This isn't something I chose to be - it's something I realised about myself and something I know, deep inside, to be true.</em></p>
