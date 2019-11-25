@@ -146,6 +146,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 ### NHS and healthcare
 
 * [BMA manifesto for health](https://www.bma.org.uk/manifesto-for-health)
+* [bpas My Pledge, Her Choice](https://friendsofbpas.org/mypledge/) - full support for reproductive and contraceptive rights, conditional support for folic acid enrichment (I just need to understand the other side better, but I can't see any obvious reasons not to support this)
 * [Bowel Cancer UK manifesto](https://bowelcancerorguk.s3.amazonaws.com/Campaigns/BowelCancerUK_General_Election_Manifesto_2019.pdf)
 * [Carers UK manifesto](http://www.carersuk.org/images/News_and_campaigns/Manifestos/Manifesto_2019_final.pdf)
 * [Mind - Press play on mental health](https://www.mind.org.uk/news-campaigns/campaigns/general-election-2019/)
@@ -167,6 +168,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 * [Future Generations pledge](https://www.bigissue.com/latest/heres-how-you-can-get-your-mp-to-back-the-future-generations-pledge/)
 * [Leeds for Europe](https://www.leedsforeurope.org/) - I pledge to vote for a confirmatory referendum and to campaign enthusiastically for Remain in that referendum.
 * [#PledgeForPR](https://www.makevotesmatter.org.uk/pledgeforpr)
+* [Simpol](https://uk.simpol.org/campaign/pledge-form-mp) - pledged to support this novel international treaty process in principle
 * [#tradedemocracy](https://action.traidcraft.org.uk/time-trade-democracy) - ensuring impact assessments on new trade deals, and that Parliament gets a say on all deals
 
 ### Transport
