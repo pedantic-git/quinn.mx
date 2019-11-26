@@ -140,13 +140,14 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 * [PAFRAS](https://www.pafras.org.uk/) - a pledge to support and improve refugees and asylum seekers' rights
 * [Refugee Action - stand with refugees](https://www.refugee-action.org.uk/wp-content/uploads/2019/11/Refugee-Action-Election-Pack-2019.pdf)
 * [RNIB Manifesto](https://www.rnib.org.uk/campaigning-current-campaigns-accessible-information-campaign/voting-and-elections)
+* [TellMAMA](https://tellmamauk.org/the-tell-mama-pledges-against-anti-muslim-hate-and-discrimination/) - pledge to stand against anti-Muslim hate
 * [Trussell Trust](https://www.trusselltrust.org/) - I support replacing the benefits system with a universal basic income, and government assistance for emergency food programmes
 * [Unicef #TeamChildren](https://www.unicef.org.uk/campaign-with-us/general-election-2019/)
 
 ### NHS and healthcare
 
 * [BMA manifesto for health](https://www.bma.org.uk/manifesto-for-health)
-* [bpas My Pledge, Her Choice](https://friendsofbpas.org/mypledge/) - full support for reproductive and contraceptive rights, conditional support for folic acid enrichment (I just need to understand the other side better, but I can't see any obvious reasons not to support this)
+* [bpas My Pledge, Her Choice](https://friendsofbpas.org/mypledge/)
 * [Bowel Cancer UK manifesto](https://bowelcancerorguk.s3.amazonaws.com/Campaigns/BowelCancerUK_General_Election_Manifesto_2019.pdf)
 * [Carers UK manifesto](http://www.carersuk.org/images/News_and_campaigns/Manifestos/Manifesto_2019_final.pdf)
 * [Mind - Press play on mental health](https://www.mind.org.uk/news-campaigns/campaigns/general-election-2019/)
@@ -191,6 +192,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 * [Animal Aid](https://www.animalaid.org.uk/animal-aid-urges-election-candidates-to-help-animals/) - I have signed pledges 1, 2 and 3. I take the concerns in pledge 4 seriously but if elected I would need to hear the evidence from both sides before pledging to support it.
 * [Campaign for Nuclear Disarmament](https://cnduk.org/) - I am committed to complete unilateral disarmament of the UK's nuclear weapons arsenal.
 * [Compassion in World Farming](https://docs.google.com/forms/d/e/1FAIpQLSc0Rz3MVD1P_hwjkG4ekl_NdD-gaFgLhO4Sq7ne6mYvNpnFOg/viewform) - all 7 pledges
+* [Jubilee Debt Campaign](https://jubileedebt.org.uk/actions/debt-trap)
 * [League Against Cruel Sports - Strengthening the ban](http://www.league.org.uk/election-briefing) - I have signed up to all the pledges except regarding custodial sentences. I agree fines are inappropriate but the Green Party believes the evidence that community and/or restorative sentences are better for rehabilitating criminals in many cases.
 
 <p style="font-size: 0.9rem; margin-top: 2rem">* <em>Non-binary means I'm neither male nor female. My pronouns are singular they/them instead of he/him or she/her. Non-binary people sometimes consider ourselves to be transgender, as I do. This isn't something I chose to be - it's something I realised about myself and something I know, deep inside, to be true.</em></p>
