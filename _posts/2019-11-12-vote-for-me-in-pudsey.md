@@ -163,6 +163,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 ### Climate
 
 * [Friends of the Earth Climate Action Pledge](https://act.friendsoftheearth.uk/act/take-climate-action-pledge)
+* [#Votefrackfree](https://www.frackfreeunited.co.uk/frack-free-candidates-mps)
 
 ### Brexit and democracy
 
