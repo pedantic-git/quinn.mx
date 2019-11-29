@@ -131,8 +131,10 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 
 ### Human rights
 
+* [Accessible rail travel](https://campaigns.leonardcheshire.org/pledge-accessible-rail-travel-disabled-people)
 * [Amnesty International](https://twitter.com/AmnestyUK/status/1197771698927538176) - promote and protect human rights in the next Parliament and beyond.
 * [Dignity in Dying](https://www.dignityindying.org.uk/) - I support a government inquiry into overturning the blanket ban on assisted dying
+* [Freedom from Torture - A Safe Place](https://action.freedomfromtorture.org/safe-place)
 * [#Invest2EndAbuse](http://www.safelives.org.uk/invest-to-end-abuse) - ending domestic abuse through proper funding
 * [LGBT+ Manifesto](https://lgbtmanifesto.com/)
 * [MEND Muslim Manifesto](https://www.mend.org.uk/wp-content/uploads/2019/11/MEND-Muslim-Manifesto-2019.pdf) - all pledges except 2, 9, 21 which I support in principle but with caveats, and 8 which is contrary to Green Party policy. Please contact me if you'd like to know more about my positions!
@@ -146,11 +148,13 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 
 ### NHS and healthcare
 
+* [Alzheimer's Society - Demanding Action on Dementia](https://www.alzheimers.org.uk/sites/default/files/2019-11/general_election_2019_manifesto.pdf)
 * [BMA manifesto for health](https://www.bma.org.uk/manifesto-for-health)
 * [bpas My Pledge, Her Choice](https://friendsofbpas.org/mypledge/)
 * [Bowel Cancer UK manifesto](https://bowelcancerorguk.s3.amazonaws.com/Campaigns/BowelCancerUK_General_Election_Manifesto_2019.pdf)
 * [Carers UK manifesto](http://www.carersuk.org/images/News_and_campaigns/Manifestos/Manifesto_2019_final.pdf)
 * [Mind - Press play on mental health](https://www.mind.org.uk/news-campaigns/campaigns/general-election-2019/)
+* [#NeuroPledge](https://www.epilepsy.org.uk/neuropledge-form)
 * [Pancreatic Cancer UK - Demand Survival Now](https://www.pancreaticcancer.org.uk/manifesto)
 * [Rethink Mental Illness manifesto](https://www.rethink.org/media/2990/rethink-mental-illness-general-election-2019-manifesto.pdf)
 * [Royal College of Nursing manifesto](https://www.rcn.org.uk/professional-development/publications/007-943)
@@ -193,6 +197,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 * [Animal Aid](https://www.animalaid.org.uk/animal-aid-urges-election-candidates-to-help-animals/) - I have signed pledges 1, 2 and 3. I take the concerns in pledge 4 seriously but if elected I would need to hear the evidence from both sides before pledging to support it.
 * [Campaign for Nuclear Disarmament](https://cnduk.org/) - I am committed to complete unilateral disarmament of the UK's nuclear weapons arsenal.
 * [Compassion in World Farming](https://docs.google.com/forms/d/e/1FAIpQLSc0Rz3MVD1P_hwjkG4ekl_NdD-gaFgLhO4Sq7ne6mYvNpnFOg/viewform) - all 7 pledges
+* [Fairtrade All-Party Parliamentary Group](https://action.fairtrade.org.uk/page/51069/petition/1)
 * [Jubilee Debt Campaign](https://jubileedebt.org.uk/actions/debt-trap)
 * [League Against Cruel Sports - Strengthening the ban](http://www.league.org.uk/election-briefing) - I have signed up to all the pledges except regarding custodial sentences. I agree fines are inappropriate but the Green Party believes the evidence that community and/or restorative sentences are better for rehabilitating criminals in many cases.
 
