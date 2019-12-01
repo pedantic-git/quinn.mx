@@ -141,6 +141,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 * [Scrap 6 Months](https://static.mndassociation.org/app/uploads/2019/11/17225654/Candidates-Pledge-GE2019.pdf) - because we support a universal basic income, I support everyone having access to benefits without a wait of any kind
 * [PAFRAS](https://www.pafras.org.uk/) - a pledge to support and improve refugees and asylum seekers' rights
 * [Refugee Action - stand with refugees](https://www.refugee-action.org.uk/wp-content/uploads/2019/11/Refugee-Action-Election-Pack-2019.pdf)
+* [Refuge - Violence Against Women and Girls](https://www.refuge.org.uk/wp-content/uploads/2019/11/Refuge-manifesto-v2.pdf?utm_source=Candidate&utm_medium=Email&utm_campaign=GE2019)
 * [RNIB Manifesto](https://www.rnib.org.uk/campaigning-current-campaigns-accessible-information-campaign/voting-and-elections)
 * [TellMAMA](https://tellmamauk.org/the-tell-mama-pledges-against-anti-muslim-hate-and-discrimination/) - pledge to stand against anti-Muslim hate
 * [Trussell Trust](https://www.trusselltrust.org/) - I support replacing the benefits system with a universal basic income, and government assistance for emergency food programmes
@@ -198,7 +199,9 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 * [Campaign for Nuclear Disarmament](https://cnduk.org/) - I am committed to complete unilateral disarmament of the UK's nuclear weapons arsenal.
 * [Compassion in World Farming](https://docs.google.com/forms/d/e/1FAIpQLSc0Rz3MVD1P_hwjkG4ekl_NdD-gaFgLhO4Sq7ne6mYvNpnFOg/viewform) - all 7 pledges
 * [Fairtrade All-Party Parliamentary Group](https://action.fairtrade.org.uk/page/51069/petition/1)
+* [#FurFreeBritain](https://www.furfreebritain.uk/)
 * [Jubilee Debt Campaign](https://jubileedebt.org.uk/actions/debt-trap)
 * [League Against Cruel Sports - Strengthening the ban](http://www.league.org.uk/election-briefing) - I have signed up to all the pledges except regarding custodial sentences. I agree fines are inappropriate but the Green Party believes the evidence that community and/or restorative sentences are better for rehabilitating criminals in many cases.
+* [ONE Pledge](https://www.one.org/onevote2019uk/en/the-pledge/)
 
 <p style="font-size: 0.9rem; margin-top: 2rem">* <em>Non-binary means I'm neither male nor female. My pronouns are singular they/them instead of he/him or she/her. Non-binary people sometimes consider ourselves to be transgender, as I do. This isn't something I chose to be - it's something I realised about myself and something I know, deep inside, to be true.</em></p>
