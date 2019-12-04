@@ -154,6 +154,7 @@ As people get in touch with pledges for me to sign up to, I'll update this secti
 * [bpas My Pledge, Her Choice](https://friendsofbpas.org/mypledge/)
 * [Bowel Cancer UK manifesto](https://bowelcancerorguk.s3.amazonaws.com/Campaigns/BowelCancerUK_General_Election_Manifesto_2019.pdf)
 * [Carers UK manifesto](http://www.carersuk.org/images/News_and_campaigns/Manifestos/Manifesto_2019_final.pdf)
+* [Macmillan Cancer Matters](https://www.macmillan.org.uk/get-involved/campaigns/cancer-matters-general-election-2019)
 * [Mind - Press play on mental health](https://www.mind.org.uk/news-campaigns/campaigns/general-election-2019/)
 * [#NeuroPledge](https://www.epilepsy.org.uk/neuropledge-form)
 * [Pancreatic Cancer UK - Demand Survival Now](https://www.pancreaticcancer.org.uk/manifesto)
