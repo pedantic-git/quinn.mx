@@ -67,7 +67,7 @@ Yes, yes, we've all seen the numbers about how often the press attacked Labour o
 
 But antisemitism *is* a serious issue on the left of politics. I know this because it's a serious issue in my party too. The freedom of Palestinian people is a noble and worthy cause, but it attracts some unsavoury elements who use the legitimate cause to peddle their hatred, in subtle ways that many people don't notice. Antisemitism spreads through Palestinian freedom movements the same way transphobia spreads through feminism, by sounding "reasonable" until you think a little harder about it, by which point you've probably already accidentally liked that tweet.
 
-Labour's response to this extra scrutiny was ridiculous. Jeremy Corbyn is probably not antisemitic himself, but he enables them by acting like the problem doesn't exist. Why couldn't he have just said "yes; we are aware that it's an issue and here are the steps we're taking to address it". The Tories are, on the whole, terrifyingly racist, but when their candidate in Leeds NE was found saying antisemitic things, he was immediately kicked out of the party. This kind of action matters to voters.
+Labour's response to this extra scrutiny was ridiculous. Corbyn is probably not antisemitic himself, but he enables them by acting like the problem doesn't exist. Why couldn't he have just said "yes; we are aware that it's an issue and here are the steps we're taking to address it"? The Tories are, on the whole, terrifyingly racist, but when their candidate in Leeds NE was found saying antisemitic things, he was immediately kicked out of the party. This kind of action matters to voters.
 
 ## 5. Most of all, they didn't play the game
 
