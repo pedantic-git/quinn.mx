@@ -37,7 +37,7 @@ But Labour chose to follow the "people earning over £80k will pay more tax" lin
 
 ### Brexit
 
-This *wasn't* the "Brexit election". At least, my interactions with voters both individually and at hustings suggested otherwise. People were much more concerned about issues that Labour had clear answers for --- as did we --- like the NHS.
+This *wasn't* the "Brexit election". At least, my interactions with voters both individually and at hustings suggested otherwise. People were much more concerned about issues that Labour had clear answers for --- as did the Green Party --- like the NHS.
 
 But Labour was portrayed as being "confused" about Brexit and their candidates and spokespeople came across that way. Their policy made some sense, but refusing to state (a) why their Brexit deal would be different from Boris's and (b) which side they would campaign for in a future referendum made them seem like they couldn't agree amongst themselves. Which they couldn't.
 
@@ -89,13 +89,13 @@ The public resent this. So many people... **so** many people told me that they w
 
 And the whole spirit of tactical voting creates a kind of bitterness amongst Labour's supporters --- I even saw a social media post from a Labour-supporting friend (who I deeply admire) calling people who vote Green in this election "selfish".
 
-So what's the alternative? We stand aside in the election and let a party win without any promises that they'll change the voting system? We keep doing that, eventually we'll be seen as an irrelevance and they'll stop feeling like it's necessary to bring their policies up to some version of ours.
+So what's the alternative? The Green Party stand aside in the election and maybe help a party win without any promises that they'll change the voting system? We keep doing that, eventually we'll be seen as an irrelevance and they'll stop feeling like it's necessary to bring their policies up to some version of ours.
 
-In 2017 we stood aside as a gesture of good faith towards Labour and they offered us nothing --- this election they wouldn't even pick up the phone to talk about an electoral alliance that would usher in a new voting system.
+In 2017 the Greens stood aside as a gesture of good faith towards Labour and they offered us nothing --- this election they wouldn't even pick up the phone to talk about an electoral alliance that would usher in a new voting system.
 
 Thanks to the rise of the SNP and, yes, the Green Party, Labour cannot easily win an election under FPTP on their own, and maybe never will again.
 
-But you know how they *could* win? By promising a one-off alliance for electoral reform. Imagine an election where the Tories were the only party who serious supported FPTP, and in order to oust them forever, all the parties supporting electoral reform agreed to stand one candidate in each constituency, as the "not Tory" candidate, with the intention of the new government having the primary goal of changing the voting system so no one ever has to vote tactically ever again. In an alliance like that, the Green Party would probably be very happy to stand aside for Labour almost everywhere, in exchange for a free run on places like Isle of Wight, and the promise that this would be the *only* election where we'd ever have to do this.
+But you know how they *could* win? By promising a one-off alliance for electoral reform. Imagine an election where the Tories were the only party who seriously supported FPTP, and in order to oust them forever, all the parties supporting electoral reform agreed to stand one candidate in each constituency, as the "not Tory" candidate, with the intention of the new government having the primary goal of changing the voting system so no one ever has to vote tactically ever again. In an alliance like that, the Green Party would probably be very happy to stand aside for Labour almost everywhere, in exchange for a free run on places like Isle of Wight, and the promise that this would be the *only* election where we'd ever have to do this.
 
 And that could win it! Only 43.6% voted for the Tories this time, so that means 56.4% voted for "not Tories". Of course, nothing is that simple but if people knew it was the last time they ever "had" to vote tactically I think they'd feel much more comfortable doing it.
 
