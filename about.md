@@ -2,7 +2,7 @@
 layout: page
 title: About me
 ---
-{% include figure.html image="/assets/quinn-large.jpg" caption="My face, circa 2019" position="right" %}
+{% include figure.html image="/assets/quinn-large.jpg" caption="My face, circa 2021" position="right" %}
 
 Greetings! My name's Quinn Daley (*pronouns: they/them*) and I'm a non-binary software developer living in Leeds.
 

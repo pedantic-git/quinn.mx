@@ -4,8 +4,15 @@ theme: alembic-jekyll-theme
 # File excludes
 exclude:
 - README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
 - Gemfile
 - Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
 
 # Set plugins
 plugins:
@@ -14,13 +21,15 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
-- jekyll-default-layout
 - jekyll-feed
-- jekyll-time-to-read
+- jekyll-commonmark
+- jekyll-include-cache
 - jemoji
 - jekyll-responsive-image
 
 # Site settings
+encoding: utf-8
+lang: en-GB
 url: 'https://www.quinn.mx'
 baseurl: ''
 title: Quinn Daley
@@ -31,9 +40,24 @@ avatarurl: "/assets/logos/logo@32px.png"
 disqus: quinnmx
 google_analytics: 'UA-139304439-1'
 
-# Pagination
+# Gem settings
 paginate: 5
 paginate_path: blog/page:num
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: pedantic_git # jekyll-seo-tag > Owners twitter username
+author: pedantic_git # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Quinn Daley # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/pedantic_git
+    - https://www.instagram.com/pedantic_git
+    - https://www.linkedin.com/in/quinnmx
+    - https://github.com/pedantic-git
+# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
+# commonmark:
+  # options: ["SMART", "FOOTNOTES"]
+  # extensions: ["strikethrough", "autolink", "table"]
 
 # Header nav
 navigation_header:
