@@ -4,12 +4,12 @@ title: When I say I’m trans and non-binary, what does that actually mean?
 categories:
   - Personal
 excerpt: A deep-dive personal experience, in the form of an FAQ. It's primarily for my cis friends and family.
-published: false
+published: true
 ---
 
 It’s [International Non-Binary People’s Day](https://en.wikipedia.org/wiki/International_Non-Binary_People%27s_Day) and to celebrate this year I thought I’d write a blog post for my cis (i.e. non-trans) friends and family about my own personal experiences of being trans and non-binary.
 
-{% include figure.html image="/assets/quinn-large.jpg" position="right" alt="A picture of my face with pink and blue hair" %}
+{% include figure.html image="/assets/quinn-dress.jpg" position="right" alt="A picture of my head and shoulders wearing a dress, necklace, cardigan and ear studs" %}
 
 When I say I am **transgender** and I am **non-binary**, what do those words actually mean? I’ve spent a lot of time trying to work out how to express this in terms that make sense. I’ll have a go at arranging them in the form of a “frequently asked questions”. This is a deep dive but hopefully an interesting read!
 
